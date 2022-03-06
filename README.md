@@ -50,7 +50,7 @@ The Unix command line helps users combine existing programs in new ways, automat
 
 
 
-8 Data Processing in Shell 
+### Finished 8 Data Processing in Shell 
 Learn powerful command-line skills to download, process, and transform data, including machine learning pipeline.
 
 

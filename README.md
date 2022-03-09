@@ -13,7 +13,7 @@ Please note this track assumes a fundamental knowledge of Python and SQL.
 
 
 
-1 Data Engineering for Everyone 
+### Finished 1 Data Engineering for Everyone 
 Discover how data engineers lay the groundwork that makes data science possible. No coding involved!
 
 

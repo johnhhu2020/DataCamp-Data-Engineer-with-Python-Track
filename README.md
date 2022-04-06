@@ -101,7 +101,7 @@ Learn how to create one of the most efficient ways of storing data - relational 
 
 
 
-18 Database Design 
+### Finished 18 Database Design 
 Learn to design databases in SQL.
 
 
